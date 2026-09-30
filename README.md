@@ -1,4 +1,4 @@
-# LinkedIn Poster Maker -- Copilot
+# LinkedIn Poster Maker
 
 An AI-assisted web application that generates professional LinkedIn
 content and automatically converts it into an editable LinkedIn poster.
